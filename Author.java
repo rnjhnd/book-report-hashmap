@@ -1,5 +1,3 @@
-package labsw5;
-
 public class Author {
     private String name;
     private String bio;
