@@ -15,7 +15,7 @@ public class BookDA {
     public BookDA() {
         bookMap = new HashMap<>();
 
-        try (BufferedReader reader = new BufferedReader(new FileReader("C:\\Users\\arene\\eclipse-workspace\\LabSW5\\src\\labsw5\\Book.csv"))) {
+        try (BufferedReader reader = new BufferedReader(new FileReader("Book.csv"))) {
             String line;
             while ((line = reader.readLine()) != null) {
                 String[] splitData = line.split(",");
