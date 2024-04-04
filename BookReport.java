@@ -1,5 +1,3 @@
-package labsw5;
-
 import java.util.*;
 
 public class BookReport {
