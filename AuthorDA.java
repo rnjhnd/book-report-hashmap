@@ -15,7 +15,7 @@ public class AuthorDA {
     public AuthorDA() {
         authorMap = new HashMap<>();
 
-        try (BufferedReader reader = new BufferedReader(new FileReader("C:\\Users\\arene\\eclipse-workspace\\LabSW5\\src\\labsw5\\Author.csv"))) {
+        try (BufferedReader reader = new BufferedReader(new FileReader("Author.csv"))) {
             String line;
             while ((line = reader.readLine()) != null) {
                 String[] authorSplitData = line.split(",");
