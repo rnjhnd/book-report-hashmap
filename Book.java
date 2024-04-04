@@ -1,5 +1,3 @@
-package labsw5;
-
 public class Book {
     private String isbn;
     private String title;
