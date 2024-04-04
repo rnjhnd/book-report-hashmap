@@ -24,7 +24,6 @@ public class AuthorDA {
             }
         } catch (IOException e) {
             System.err.println("Error reading Author.csv: " + e.getMessage());
-            // You can also throw a custom exception or take other actions
         }
     }
 }
