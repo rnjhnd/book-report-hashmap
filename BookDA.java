@@ -25,7 +25,6 @@ public class BookDA {
             }
         } catch (IOException e) {
             System.err.println("Error reading Book.csv: " + e.getMessage());
-            // You can also throw a custom exception or take other actions
         }
     }
 }
