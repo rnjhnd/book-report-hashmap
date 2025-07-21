@@ -1,4 +1,4 @@
-# Hashmap Exercise
+# Book Report Generator
 
 **Create a report that will display the isbn, book title, author's name and bio based from the given diagram:**
 
