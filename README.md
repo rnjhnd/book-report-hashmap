@@ -24,8 +24,7 @@ This project implements a **Data Access Pattern** with HashMap-based data manage
 - **Scalability**: Easy to extend with additional book and author attributes
 
 ## 📊 UML Class Diagram
-
-![image](https://github.com/ArenJohnD/LabExerciseHashMap/assets/152838648/561f578a-e75e-47cb-aafa-38a1798d47e3)
+<img width="772" height="217" alt="UML Class Diagram" src="https://github.com/user-attachments/assets/dc6c7d72-2af0-4768-9872-929fe7aee802" />
 
 The following diagram illustrates:
 - The relationship between Book and Author entities
@@ -192,8 +191,7 @@ try (BufferedReader reader = new BufferedReader(new FileReader("Book.csv"))) {
 - **Implementation**: ISBN as key for books, author name as key for authors
 
 ## 📊 Sequence Diagram
-
-![image](https://github.com/ArenJohnD/LabExerciseHashMap/assets/152838648/28c19dd9-eda9-4ca0-8ba7-ebc9979710ac)
+<img width="1474" height="763" alt="Sequence Diagram" src="https://github.com/user-attachments/assets/9aac8e6f-7d7b-46c1-bbc4-3ed950f7508f" />
 
 The sequence diagram illustrates:
 - The flow of data from CSV files to HashMap structures
