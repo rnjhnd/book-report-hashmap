@@ -84,7 +84,7 @@ book-report-hashmap/
 
 **Book.csv** - Contains book information:
 ```
-Isbn, title, author name
+Isbn,title,author name
 BK-1234,The Lord of the Rings,J.R.R. Tolkien
 BK-5678,The Hobbit,J.R.R. Tolkien
 BK-9012,Pride and Prejudice,Jane Austen
